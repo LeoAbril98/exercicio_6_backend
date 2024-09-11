@@ -1,0 +1,41 @@
+1) O despertador toca às 6:00. Você abre os olhos, localiza o despertador e o desliga.
+
+2) Você se levanta da cama, espreguiça-se e coloca os pés no chão.
+
+3) Caminha até o banheiro e, ao chegar, pega a escova de dentes, aplica a pasta e escova os dentes por cerca de dois minutos.
+
+4) Depois de escovar os dentes, você decide tomar um banho. Liga o chuveiro, espera a água esquentar e toma um banho rápido.
+
+5) Ao terminar o banho, seca-se com uma toalha e escolhe a roupa para o trabalho. Veste-se, calça os sapatos e confere sua aparência no espelho.
+
+6) Sai do banheiro e pega os itens essenciais: celular, carteira, chaves do carro e documentos.
+
+7) Caminha até a porta de saída da casa. Ao chegar, percebe que a porta está trancada.
+
+	1) Pega a chave da porta na mochila ou no chaveiro.
+
+	2) Insere a chave na fechadura, certificando-se de que está corretamente alinhada.
+
+	3) Gira a chave 360 graus no sentido horário para destrancar a porta.
+
+	4) Coloca a mão na maçaneta, gira-a e abre a porta com cuidado.
+
+8) Sai de casa e fecha a porta. Caso ela tenha um sistema de travamento automático, verifica se está devidamente fechada. Se necessário, tranca-a novamente com a chave.
+
+9) Caminha até a garagem onde o carro está estacionado.
+
+10) Ao chegar na garagem, pega a chave do carro no bolso ou mochila.
+
+	1) Destrava o carro usando o botão de destravamento do controle remoto ou inserindo a chave na fechadura da porta do carro.
+
+	2) Abre a porta do carro colocando a mão na maçaneta e puxando-a suavemente.
+
+11) Entra no carro, senta-se no banco do motorista e coloca o cinto de segurança.
+
+12) Ajusta os espelhos retrovisores e o banco, se necessário.
+
+13) Insere a chave na ignição e gira-a para dar partida no carro.
+
+14) Com tudo pronto, liga o motor e se prepara para sair rumo ao trabalho.
+
+FIM
